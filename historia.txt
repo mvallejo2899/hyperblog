@@ -1,2 +1,6 @@
 Este es un nuevo archivo 
 pero ahora mejorado
+
+Pero no es mejor que esta linea 
+
+pero hay maneras de mejorarlo todavia 
